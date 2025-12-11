@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps   // <-- YE LINE ADD KAR DE
+`timescale 1ns / 1ps
 module tb_andgate;
     reg a,b;
     wire y;
